@@ -1,0 +1,4 @@
+[submodule "fire_spread"]
+	path = fire_spread
+	url = ./fire_spread
+	branch = main
