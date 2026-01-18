@@ -1,0 +1,4 @@
+[submodule "abses_forestfire"]
+	path = abses_forestfire
+	url = ./abses_forestfire
+	branch = main
